@@ -1,0 +1,54 @@
+{	
+	"post_types": {
+		"homepage_banner": {
+			"post_title": {},
+			"post_content": {},
+			"post_excerpt": {}
+		},
+		
+		"reference_customer": {
+			"post_title": {},
+			"post_content": {},
+			"post_excerpt": {}
+		},
+		"news_post": {
+			"post_title": {},
+			"post_content": {},
+			"post_excerpt": {}
+		},
+		"function_list": {
+			"post_title": {},
+			"post_content": {},
+			"post_excerpt": {}
+		},
+		"demo_site": {
+			"post_title": {},
+			"post_content": {},
+			"post_excerpt": {}
+		},
+		"learn_more": {
+			"post_title": {},
+			"post_content": {},
+			"post_excerpt": {}
+		},
+
+		"faq": {
+			"post_title": {},
+			"post_content": {},
+			"post_excerpt": {}
+		},
+
+		"about_team": {
+			"post_title": {},
+			"post_content": {},
+			"post_excerpt": {}
+		},
+
+		"pricing_plan": {
+			"post_title": {},
+			"post_content": {},
+			"post_excerpt": {}
+		}
+	}
+} 
+

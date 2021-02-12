@@ -1,0 +1,744 @@
+# Translation of Plugins - Arconix FAQ - Development (trunk) in English (UK)
+# This file is distributed under the same license as the Plugins - Arconix FAQ - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-10-31 13:52:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - Arconix FAQ - Development (trunk)\n"
+
+#. Author of the plugin/theme
+msgid "Tyche Softwares"
+msgstr "Tyche Softwares"
+
+#. #-#-#-#-#  arconix-faq-code.pot (Arconix FAQ 1.8.3)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  arconix-faq-code.pot (Arconix FAQ 1.8.3)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://www.tychesoftwares.com/"
+msgstr "https://www.tychesoftwares.com/"
+
+#: includes/component/welcome-page/ts-welcome.php:194
+msgid "Welcome to %s %s"
+msgstr "Welcome to %s %s"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:126
+msgid "Meet the team"
+msgstr "Meet the team"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:117
+msgid "View all Premium Plugins"
+msgstr "View all Premium Plugins"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:116
+msgid "Visit the Tyche Softwares Website"
+msgstr "Visit the Tyche Softwares Website"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:113
+msgid "Getting to Know Tyche Softwares"
+msgstr "Getting to Know Tyche Softwares"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:99
+msgid "Click Here to check Setting"
+msgstr "Click Here to check Setting"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:97
+msgid "There is a setting \"Load FAQ Open\" which will allow you to load your FAQ in the open state. If there is any long FAQ so you can enable the setting \"Show Return to Top\". This will add the link at the bottom of that FAQ and will return the user to the top of that particular question."
+msgstr "There is a setting \"Load FAQ Open\" which will allow you to load your FAQ in the open state. If there is any long FAQ so you can enable the setting \"Show Return to Top\". This will add the link at the bottom of that FAQ and will return the user to the top of that particular question."
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:81
+msgid "If you want to share a link to another FAQ then you can apply the web address as {{yourdomain.com/pagename}}/#faq-title-of-another-faq. You can see the example in screenshot."
+msgstr "If you want to share a link to another FAQ then you can apply the web address as {{yourdomain.com/pagename}}/#faq-title-of-another-faq. You can see the example in screenshot."
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:79
+msgid "Link FAQ"
+msgstr "Link FAQ"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:61
+msgid "You can create a page or post and add the shortcode as [faq] there."
+msgstr "You can create a page or post and add the shortcode as [faq] there."
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:59
+msgid "Display all FAQ."
+msgstr "Display all FAQ."
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:48
+msgid "Click Here to to Add new FAQ"
+msgstr "Click Here to to Add new FAQ"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:46
+msgid "To add frequently asked questions and their answers, you can click on Add New page under the FAQ menu."
+msgstr "To add frequently asked questions and their answers, you can click on Add New page under the FAQ menu."
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:44
+msgid "Add new FAQ"
+msgstr "Add new FAQ"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:36
+msgid "Get Started with Arconix FAQ"
+msgstr "Get Started with Arconix FAQ"
+
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:26
+msgid "Thank you for activating or updating to the latest version of Arconix FAQ! If you're a first time user, welcome! You're well on your way to explore the FAQ's functionality for your WordPress store."
+msgstr "Thank you for activating or updating to the latest version of Arconix FAQ! If you're a first time user, welcome! You're well on your way to explore the FAQ's functionality for your WordPress store."
+
+#: includes/component/welcome-page/templates/social-media-elements.php:10
+msgid "Follow %s"
+msgstr "Follow %s"
+
+#: includes/component/tracking-data/ts-tracking.php:345
+msgid "No thanks"
+msgstr "No thanks"
+
+#: includes/component/tracking-data/ts-tracking.php:344
+msgid "Allow"
+msgstr "Allow"
+
+#: includes/component/tracking-data/ts-tracking.php:258
+msgid "Once in a Week"
+msgstr "Once in a Week"
+
+#: includes/component/tracking-data/ts-tracking.php:155
+msgid "This will reset your usage tracking settings, causing it to show the opt-in banner again and not sending any data"
+msgstr "This will reset your usage tracking settings, causing it to show the opt-in banner again and not sending any data"
+
+#: includes/component/tracking-data/ts-tracking.php:153
+#: includes/component/tracking-data/ts-tracking.php:213
+msgid "Reset usage tracking"
+msgstr "Reset usage tracking"
+
+#: includes/component/faq-support/ts-faq-support.php:175
+msgid "FAQ & Support"
+msgstr "FAQ & Support"
+
+#: includes/component/faq-support/ts-faq-support.php:127
+msgid "Frequently Asked Questions for %s"
+msgstr "Frequently Asked Questions for %s"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:91
+msgctxt "the text of the 'other' reason for deactivating the plugin that is shown in the modal box."
+msgid "Other"
+msgstr "Other"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:90
+msgid "I don't like to share my information with you"
+msgstr "I don't like to share my information with you"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:89
+msgid "What feature?"
+msgstr "What feature?"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:88
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "The plugin is great, but I need specific feature that you don't support"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:87
+msgid "Kindly share what didn't work so we can fix it for future users..."
+msgstr "Kindly share what didn't work so we can fix it for future users&hellip;"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:86
+msgid "The plugin is not working"
+msgstr "The plugin is not working"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:85
+msgid "I only needed the plugin for a short period"
+msgstr "I only needed the plugin for a short period"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:84
+msgid "What's the plugin's name?"
+msgstr "What's the plugin's name?"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:83
+msgid "I found a better plugin"
+msgstr "I found a better plugin"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:79
+msgid "Yes - Deactivate"
+msgstr "Yes - Deactivate"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:78
+msgid "Cancel"
+msgstr "Cancel"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:77
+msgid "Deactivate"
+msgstr "Deactivate"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:76
+msgid "Submit & Deactivate"
+msgstr "Submit & Deactivate"
+
+#: includes/component/deactivate-survey-popup/class-ts-deactivation.php:75
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr "If you have a moment, please let us know why you are deactivating"
+
+#: includes/class-arconix-faq-admin.php:548
+msgid "This plugin is not useful to me."
+msgstr "This plugin is not useful to me."
+
+#: includes/class-arconix-faq-admin.php:542
+msgid "The plugin is not compatible with another plugin."
+msgstr "The plugin is not compatible with another plugin."
+
+#: includes/class-arconix-faq-admin.php:536
+msgid "The styling of the plugin does not work with my theme."
+msgstr "The styling of the plugin does not work with my theme."
+
+#: includes/class-arconix-faq-admin.php:530
+msgid "I'm not able to link my one FAQ to another FAQ."
+msgstr "I'm not able to link my one FAQ to another FAQ."
+
+#: includes/arconix-faq-all-component.php:127
+msgid "Customers can now edit the Delivery date & time on cart and checkout page or they can reschedule the deliveries for the already placed orders from Product Delivery Date Pro for WooCommerce. <strong><a target=\"_blank\" href= \"https://www.tychesoftwares.com/store/premium-plugins/product-delivery-date-pro-for-woocommerce/checkout?edd_action=add_to_cart&download_id=16&utm_source=wpnotice&utm_medium=first&utm_campaign=PrintInvoicePlugin\">Have it now!</a></strong>."
+msgstr "Customers can now edit the Delivery date & time on basket and checkout page or they can reschedule the deliveries for the already placed orders from Product Delivery Date Pro for WooCommerce. <strong><a target=\"_blank\" href= \"https://www.tychesoftwares.com/store/premium-plugins/product-delivery-date-pro-for-woocommerce/checkout?edd_action=add_to_cart&download_id=16&utm_source=wpnotice&utm_medium=first&utm_campaign=PrintInvoicePlugin\">Have it now!</a></strong>."
+
+#: includes/arconix-faq-all-component.php:125
+msgid "Allow your customers to pay extra for delivery for certain Weekdays/Dates from Product Delivery Date Pro for WooCommerce. <strong><a target=\"_blank\" href= \"https://www.tychesoftwares.com/store/premium-plugins/product-delivery-date-pro-for-woocommerce/checkout?edd_action=add_to_cart&download_id=16&utm_source=wpnotice&utm_medium=first&utm_campaign=PrintInvoicePlugin\">Have it now!</a></strong>."
+msgstr "Allow your customers to pay extra for delivery for certain Weekdays/Dates from Product Delivery Date Pro for WooCommerce. <strong><a target=\"_blank\" href= \"https://www.tychesoftwares.com/store/premium-plugins/product-delivery-date-pro-for-woocommerce/checkout?edd_action=add_to_cart&download_id=16&utm_source=wpnotice&utm_medium=first&utm_campaign=PrintInvoicePlugin\">Have it now!</a></strong>."
+
+#: includes/arconix-faq-all-component.php:123
+msgid "You can now view all your deliveries in list view or in calendar view from Product Delivery Date Pro for WooCommerce. <strong><a target=\"_blank\" href= \"https://www.tychesoftwares.com/store/premium-plugins/product-delivery-date-pro-for-woocommerce/checkout?edd_action=add_to_cart&download_id=16&utm_source=wpnotice&utm_medium=first&utm_campaign=PrintInvoicePlugin\">Get it now!</a></strong>."
+msgstr "You can now view all your deliveries in list view or in calendar view from Product Delivery Date Pro for WooCommerce. <strong><a target=\"_blank\" href= \"https://www.tychesoftwares.com/store/premium-plugins/product-delivery-date-pro-for-woocommerce/checkout?edd_action=add_to_cart&download_id=16&utm_source=wpnotice&utm_medium=first&utm_campaign=PrintInvoicePlugin\">Get it now!</a></strong>."
+
+#: includes/arconix-faq-all-component.php:121
+msgid "Never login to your admin to check your deliveries by syncing the delivery dates to the Google Calendar from Product Delivery Date Pro for WooCommerce. <strong><a target=\"_blank\" href= \"https://www.tychesoftwares.com/store/premium-plugins/product-delivery-date-pro-for-woocommerce/checkout?edd_action=add_to_cart&download_id=16&utm_source=wpnotice&utm_medium=first&utm_campaign=PrintInvoicePlugin\">Get it now!</a></strong>"
+msgstr "Never login to your admin to check your deliveries by syncing the delivery dates to the Google Calendar from Product Delivery Date Pro for WooCommerce. <strong><a target=\"_blank\" href= \"https://www.tychesoftwares.com/store/premium-plugins/product-delivery-date-pro-for-woocommerce/checkout?edd_action=add_to_cart&download_id=16&utm_source=wpnotice&utm_medium=first&utm_campaign=PrintInvoicePlugin\">Get it now!</a></strong>"
+
+#: includes/arconix-faq-all-component.php:119
+msgid "Thank you for using WooCommerce Print Invoice & Delivery Note plugin! Now make your deliveries more accurate by allowing customers to select their preferred delivery date & time from Product Delivery Date Pro for WooCommerce. <strong><a target=\"_blank\" href= \"https://www.tychesoftwares.com/store/premium-plugins/product-delivery-date-pro-for-woocommerce/?utm_source=wpnotice&utm_medium=first&utm_campaign=PrintInvoicePlugin\">Get it now!</a></strong>"
+msgstr "Thank you for using WooCommerce Print Invoice & Delivery Note plugin! Now make your deliveries more accurate by allowing customers to select their preferred delivery date & time from Product Delivery Date Pro for WooCommerce. <strong><a target=\"_blank\" href= \"https://www.tychesoftwares.com/store/premium-plugins/product-delivery-date-pro-for-woocommerce/?utm_source=wpnotice&utm_medium=first&utm_campaign=PrintInvoicePlugin\">Get it now!</a></strong>"
+
+#. Description of the plugin/theme
+msgid "Plugin to handle the display of FAQs"
+msgstr "Plugin to handle the display of FAQs"
+
+#. #-#-#-#-#  arconix-faq-code.pot (Arconix FAQ 1.8.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:40
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:69
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:75
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:105
+msgid "Arconix FAQ"
+msgstr "Arconix FAQ"
+
+#: includes/metabox/init.php:1177
+msgid "Save"
+msgstr "Save"
+
+#: includes/metabox/init.php:288
+msgid "Select / Deselect All"
+msgstr "Select / Deselect All"
+
+#: includes/metabox/init.php:261
+msgid "Current Color"
+msgstr "Current Colour"
+
+#: includes/metabox/init.php:260
+msgid "Select Color"
+msgstr "Select Colour"
+
+#: includes/metabox/init.php:259
+msgid "Default"
+msgstr "Standard"
+
+#: includes/metabox/init.php:258
+msgid "Clear"
+msgstr "Clear"
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:706
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:768
+msgid "Download"
+msgstr "Download"
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:706
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:768
+msgid "File:"
+msgstr "File:"
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:695
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:760
+msgid "Remove Image"
+msgstr "Remove Image"
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:674
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:728
+msgid "Add or Upload File"
+msgstr "Add or Upload File"
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:601
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:635
+msgid "No terms"
+msgstr "No terms"
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:306
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:706
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:768
+msgid "Remove"
+msgstr "Remove"
+
+#: includes/metabox/helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr "Add Row"
+
+#: includes/metabox/helpers/cmb_Meta_Box_field.php:460
+msgid "Remove Group"
+msgstr "Remove Group"
+
+#: includes/metabox/helpers/cmb_Meta_Box_field.php:459
+msgid "Add Group"
+msgstr "Add Group"
+
+#: includes/metabox/helpers/cmb_Meta_Box_ajax.php:134
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "No oEmbed Results Found for %s. View more info at"
+
+#: includes/metabox/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr "Remove Embed"
+
+#: includes/metabox/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr "Please Try Again"
+
+#: includes/metabox/example-functions.php:392
+msgid "Site Background Color"
+msgstr "Site Background Colour"
+
+#: includes/metabox/example-functions.php:388
+msgid "Theme Options Metabox"
+msgstr "Theme Options Metabox"
+
+#: includes/metabox/example-functions.php:374
+msgid "User Field"
+msgstr "User Field"
+
+#: includes/metabox/example-functions.php:368
+msgid "Linkedin URL"
+msgstr "Linkedin URL"
+
+#: includes/metabox/example-functions.php:362
+msgid "Google+ URL"
+msgstr "Google+ URL"
+
+#: includes/metabox/example-functions.php:356
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: includes/metabox/example-functions.php:350
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: includes/metabox/example-functions.php:343
+msgid "Avatar"
+msgstr "Avatar"
+
+#: includes/metabox/example-functions.php:336
+msgid "Extra Info"
+msgstr "Extra Info"
+
+#: includes/metabox/example-functions.php:330
+msgid "User Profile Metabox"
+msgstr "User Profile Metabox"
+
+#: includes/metabox/example-functions.php:293
+msgid "Remove Entry"
+msgstr "Remove Entry"
+
+#: includes/metabox/example-functions.php:292
+msgid "Add Another Entry"
+msgstr "Add Another Entry"
+
+#: includes/metabox/example-functions.php:291
+msgid "Entry {#}"
+msgstr "Entry {#}"
+
+#: includes/metabox/example-functions.php:289
+msgid "Generates reusable form entries"
+msgstr "Generates reusable form entries"
+
+#: includes/metabox/example-functions.php:283
+msgid "Repeating Field Group"
+msgstr "Repeating Field Group"
+
+#: includes/metabox/example-functions.php:262
+msgid "About Page Metabox"
+msgstr "About Page Metabox"
+
+#: includes/metabox/example-functions.php:250
+msgid "Enter a youtube, twitter, or instagram URL. Supports services listed at <a href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/Embeds</a>."
+msgstr "Enter a Youtube, Twitter, or Instagram URL. Supports services listed at <a href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/Embeds</a>."
+
+#: includes/metabox/example-functions.php:249
+msgid "oEmbed"
+msgstr "oEmbed"
+
+#: includes/metabox/example-functions.php:243
+msgid "Upload or add multiple images/attachments."
+msgstr "Upload or add multiple images/attachments."
+
+#: includes/metabox/example-functions.php:242
+msgid "Multiple Files"
+msgstr "Multiple Files"
+
+#: includes/metabox/example-functions.php:237
+msgid "Upload an image or enter a URL."
+msgstr "Upload an image or enter an URL."
+
+#: includes/metabox/example-functions.php:236
+msgid "Test Image"
+msgstr "Test Image"
+
+#: includes/metabox/example-functions.php:229
+msgid "Test wysiwyg"
+msgstr "Test wysiwyg"
+
+#: includes/metabox/example-functions.php:224
+msgid "Check Three"
+msgstr "Check Three"
+
+#: includes/metabox/example-functions.php:223
+msgid "Check Two"
+msgstr "Check Two"
+
+#: includes/metabox/example-functions.php:222
+msgid "Check One"
+msgstr "Check One"
+
+#: includes/metabox/example-functions.php:217
+msgid "Test Multi Checkbox"
+msgstr "Test Multi Checkbox"
+
+#: includes/metabox/example-functions.php:211
+msgid "Test Checkbox"
+msgstr "Test Checkbox"
+
+#: includes/metabox/example-functions.php:203
+msgid "Test Taxonomy Multi Checkbox"
+msgstr "Test Taxonomy Multi Checkbox"
+
+#: includes/metabox/example-functions.php:196
+msgid "Test Taxonomy Select"
+msgstr "Test Taxonomy Select"
+
+#: includes/metabox/example-functions.php:188
+msgid "Test Taxonomy Radio"
+msgstr "Test Taxonomy Radio"
+
+#: includes/metabox/example-functions.php:177
+msgid "Test Radio"
+msgstr "Test Radio"
+
+#: includes/metabox/example-functions.php:166
+msgid "Test Radio inline"
+msgstr "Test Radio inline"
+
+#: includes/metabox/example-functions.php:162
+#: includes/metabox/example-functions.php:173
+#: includes/metabox/example-functions.php:184
+msgid "Option Three"
+msgstr "Option Three"
+
+#: includes/metabox/example-functions.php:161
+#: includes/metabox/example-functions.php:172
+#: includes/metabox/example-functions.php:183
+msgid "Option Two"
+msgstr "Option Two"
+
+#: includes/metabox/example-functions.php:160
+#: includes/metabox/example-functions.php:171
+#: includes/metabox/example-functions.php:182
+msgid "Option One"
+msgstr "Option One"
+
+#: includes/metabox/example-functions.php:155
+msgid "Test Select"
+msgstr "Test Select"
+
+#: includes/metabox/example-functions.php:150
+msgid "This is a title description"
+msgstr "This is a title description"
+
+#: includes/metabox/example-functions.php:149
+msgid "Test Title Weeeee"
+msgstr "Test Title Weeeee"
+
+#: includes/metabox/example-functions.php:143
+msgid "Test Text Area for Code"
+msgstr "Test Text Area for Code"
+
+#: includes/metabox/example-functions.php:137
+msgid "Test Text Area Small"
+msgstr "Test Text Area Small"
+
+#: includes/metabox/example-functions.php:131
+msgid "Test Text Area"
+msgstr "Test Text Area"
+
+#: includes/metabox/example-functions.php:124
+msgid "Test Color Picker"
+msgstr "Test Colour Picker"
+
+#: includes/metabox/example-functions.php:116
+msgid "Test Money"
+msgstr "Test Money"
+
+#: includes/metabox/example-functions.php:101
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr "Test Date/Time Picker Combo (UNIX timestamp)"
+
+#: includes/metabox/example-functions.php:94
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr "Test Date Picker (UNIX time stamp)"
+
+#: includes/metabox/example-functions.php:88
+msgid "Test Date Picker"
+msgstr "Test Date Picker"
+
+#: includes/metabox/example-functions.php:82
+#: includes/metabox/example-functions.php:83
+msgid "Time zone"
+msgstr "Time zone"
+
+#: includes/metabox/example-functions.php:76
+msgid "Test Time"
+msgstr "Test Time"
+
+#: includes/metabox/example-functions.php:69
+msgid "Test Text Email"
+msgstr "Test Text Email"
+
+#: includes/metabox/example-functions.php:61
+msgid "Website URL"
+msgstr "Website URL"
+
+#: includes/metabox/example-functions.php:54
+msgid "Test Text Medium"
+msgstr "Test Text Medium"
+
+#: includes/metabox/example-functions.php:47
+msgid "Test Text Small"
+msgstr "Test Text Small"
+
+#: includes/metabox/example-functions.php:37
+#: includes/metabox/example-functions.php:48
+#: includes/metabox/example-functions.php:55
+#: includes/metabox/example-functions.php:62
+#: includes/metabox/example-functions.php:70
+#: includes/metabox/example-functions.php:77
+#: includes/metabox/example-functions.php:89
+#: includes/metabox/example-functions.php:95
+#: includes/metabox/example-functions.php:102
+#: includes/metabox/example-functions.php:117
+#: includes/metabox/example-functions.php:125
+#: includes/metabox/example-functions.php:132
+#: includes/metabox/example-functions.php:138
+#: includes/metabox/example-functions.php:144
+#: includes/metabox/example-functions.php:156
+#: includes/metabox/example-functions.php:167
+#: includes/metabox/example-functions.php:178
+#: includes/metabox/example-functions.php:189
+#: includes/metabox/example-functions.php:197
+#: includes/metabox/example-functions.php:204
+#: includes/metabox/example-functions.php:212
+#: includes/metabox/example-functions.php:218
+#: includes/metabox/example-functions.php:230
+#: includes/metabox/example-functions.php:271
+#: includes/metabox/example-functions.php:337
+#: includes/metabox/example-functions.php:344
+#: includes/metabox/example-functions.php:351
+#: includes/metabox/example-functions.php:357
+#: includes/metabox/example-functions.php:363
+#: includes/metabox/example-functions.php:369
+#: includes/metabox/example-functions.php:375
+#: includes/metabox/example-functions.php:393
+msgid "field description (optional)"
+msgstr "field description (optional)"
+
+#: includes/metabox/example-functions.php:36
+#: includes/metabox/example-functions.php:270
+msgid "Test Text"
+msgstr "Test Text"
+
+#: includes/metabox/example-functions.php:28
+msgid "Test Metabox"
+msgstr "Test Metabox"
+
+#: includes/class-arconix-faq-display.php:265
+msgid "Return to Top"
+msgstr "Return to Top"
+
+#: includes/class-arconix-faq-admin.php:517
+msgid "To display this question, copy the code below and paste it into your post, page, text widget or other content area."
+msgstr "To display this question, copy the code below and paste it into your post, page, text widget or other content area."
+
+#: includes/class-arconix-faq-admin.php:502
+msgid "FAQ Shortcode"
+msgstr "FAQ Shortcode"
+
+#: includes/class-arconix-faq-admin.php:488
+msgid "Source Code"
+msgstr "Source Code"
+
+#: includes/class-arconix-faq-admin.php:487
+msgid "Dev Board"
+msgstr "Dev Board"
+
+#: includes/class-arconix-faq-admin.php:486
+msgid "Support Forum"
+msgstr "Support Forum"
+
+#: includes/class-arconix-faq-admin.php:485
+msgid "Documentation"
+msgstr "Documentation"
+
+#: includes/class-arconix-faq-admin.php:411
+msgid "Date"
+msgstr "Date"
+
+#: includes/class-arconix-faq-admin.php:410
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/class-arconix-faq-admin.php:408
+msgid "Answer"
+msgstr "Answer"
+
+#: includes/class-arconix-faq-admin.php:407
+msgid "FAQ Title"
+msgstr "FAQ Title"
+
+#: includes/class-arconix-faq-admin.php:389
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: includes/class-arconix-faq-admin.php:387
+msgid "Page saved."
+msgstr "Page saved."
+
+#: includes/class-arconix-faq-admin.php:383
+msgid "Custom field deleted."
+msgstr "Custom field deleted."
+
+#: includes/class-arconix-faq-admin.php:382
+msgid "Custom field updated."
+msgstr "Custom field updated."
+
+#: includes/class-arconix-faq-admin.php:213
+msgid "Load this FAQ in the open state (default is closed). This is not available when using the accordion configuration"
+msgstr "Load this FAQ in the open state (default is closed). This is not available when using the accordion configuration"
+
+#: includes/class-arconix-faq-admin.php:212
+msgid "Load FAQ Open"
+msgstr "Load FAQ Open"
+
+#: includes/class-arconix-faq-admin.php:207
+msgid "Enable a \"Return to Top\" link at the bottom of this FAQ. The link will return the user to the top of this specific question"
+msgstr "Enable a \"Return to Top\" link at the bottom of this FAQ. The link will return the user to the top of this specific question"
+
+#: includes/class-arconix-faq-admin.php:206
+msgid "Show Return to Top"
+msgstr "Show Return to Top"
+
+#: includes/class-arconix-faq-admin.php:198
+#: includes/component/welcome-page/templates/welcome/welcome-page.php:95
+msgid "FAQ Setting"
+msgstr "FAQ Setting"
+
+#: includes/class-arconix-faq-admin.php:171
+msgid "Choose from the most used groups"
+msgstr "Choose from the most used groups"
+
+#: includes/class-arconix-faq-admin.php:170
+msgid "Add or remove groups"
+msgstr "Add or remove groups"
+
+#: includes/class-arconix-faq-admin.php:169
+msgid "Separate groups with commas"
+msgstr "Separate groups with commas"
+
+#: includes/class-arconix-faq-admin.php:168
+msgid "New Group Name"
+msgstr "New Group Name"
+
+#: includes/class-arconix-faq-admin.php:167
+msgid "Add New Group"
+msgstr "Add New Group"
+
+#: includes/class-arconix-faq-admin.php:166
+msgid "Update Group"
+msgstr "Update Group"
+
+#: includes/class-arconix-faq-admin.php:165
+msgid "Edit Group"
+msgstr "Edit Group"
+
+#: includes/class-arconix-faq-admin.php:162
+msgid "All Groups"
+msgstr "All Groups"
+
+#: includes/class-arconix-faq-admin.php:161
+msgid "Popular Groups"
+msgstr "Popular Groups"
+
+#: includes/class-arconix-faq-admin.php:160
+msgid "Search Groups"
+msgstr "Search Groups"
+
+#: includes/class-arconix-faq-admin.php:159
+#: includes/class-arconix-faq-admin.php:409
+msgid "Group"
+msgstr "Group"
+
+#: includes/class-arconix-faq-admin.php:158
+#: includes/class-arconix-faq-admin.php:172
+msgid "Groups"
+msgstr "Groups"
+
+#: includes/class-arconix-faq-admin.php:143
+msgid "No FAQs found in Trash"
+msgstr "No FAQs found in Bin"
+
+#: includes/class-arconix-faq-admin.php:142
+msgid "No FAQs found"
+msgstr "No FAQs found"
+
+#: includes/class-arconix-faq-admin.php:141
+msgid "Search FAQ"
+msgstr "Search FAQ"
+
+#: includes/class-arconix-faq-admin.php:140
+msgid "View Question"
+msgstr "View Question"
+
+#: includes/class-arconix-faq-admin.php:139
+msgid "View FAQ"
+msgstr "View FAQ"
+
+#: includes/class-arconix-faq-admin.php:138
+msgid "New Question"
+msgstr "New Question"
+
+#: includes/class-arconix-faq-admin.php:137
+msgid "Edit Question"
+msgstr "Edit Question"
+
+#: includes/class-arconix-faq-admin.php:136
+msgid "Edit"
+msgstr "Edit"
+
+#: includes/class-arconix-faq-admin.php:135
+msgid "Add New Question"
+msgstr "Add New Question"
+
+#: includes/class-arconix-faq-admin.php:134
+msgid "Add New"
+msgstr "Add New"
+
+#: includes/class-arconix-faq-admin.php:132
+#: includes/class-arconix-faq-admin.php:133
+msgid "FAQ"
+msgstr "FAQ"

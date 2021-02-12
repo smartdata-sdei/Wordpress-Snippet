@@ -1,0 +1,17 @@
+﻿#wpm-language-switcher a img {
+    width: 18px !important;
+}
+.languages.column-languages img {
+    width: 24px !important;
+    height: 15px !important;
+}
+.ab-icon img {
+    width: 18px !important;
+}
+.select2-selection img {
+    width: 28px !important;
+}
+
+.ab-icon img {
+    width: 28px !important;
+}

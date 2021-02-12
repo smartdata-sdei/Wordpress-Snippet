@@ -1,0 +1,220 @@
+# Translation of Plugins - Nav Menu Roles - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Nav Menu Roles - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-01 18:18:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Nav Menu Roles - Stable (latest release)\n"
+
+#: inc/customizer.php:71
+msgid "Restrict menu item to minimum role"
+msgstr "Begränsa menyobjekt till minsta roll"
+
+#: nav-menu-roles.php:83
+msgid "Cloning this object is forbidden."
+msgstr "Kloning av detta objekt är förbjudet."
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:157
+msgid "Edit"
+msgstr "Redigera"
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:157
+msgid "Edit menu item"
+msgstr "Redigera menyval"
+
+#: nav-menu-roles.php:285
+msgid "Donate"
+msgstr "Donera"
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:186
+#: inc/class-walker-nav-menu-edit-roles.php:189
+msgid "Open link in a new tab"
+msgstr "Öppna länk i ny flik"
+
+#: nav-menu-roles.php:284
+msgid "FAQ"
+msgstr "Vanliga frågor"
+
+#: inc/class-nav-menu-roles-import.php:114
+#: inc/class-nav-menu-roles-import.php:123
+#: inc/class-nav-menu-roles-import.php:169
+#: inc/class-nav-menu-roles-import.php:173
+#: inc/class-nav-menu-roles-import.php:183
+msgid "Sorry, there has been an error."
+msgstr "Tyvärr, något gick fel."
+
+#: inc/class-nav-menu-roles-import.php:115
+msgid "The file does not exist, please try again."
+msgstr "Filen finns inte, vänligen försök igen."
+
+#: inc/class-nav-menu-roles-import.php:154
+msgid "All done."
+msgstr "Allt klart."
+
+#: inc/class-nav-menu-roles-import.php:154
+msgid "Have fun!"
+msgstr "Ha det så trevligt!"
+
+#: inc/class-nav-menu-roles-import.php:191
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Den här WXR-filen (version %s) saknas det kanske stöd för i den här versionen av importfunktionen. Vänligen överväg att uppdatera."
+
+#: inc/class-nav-menu-roles-import.php:259
+msgid "Import Nav Menu Roles"
+msgstr "Importera Nav Meny-roller"
+
+#: inc/class-nav-menu-roles-import.php:266
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr "En ny version av den här importversionen finns tillgänglig. Vänligen uppdatera till version %s för att säkra kompatibilitet med nyare exportfiler. "
+
+#: inc/class-nav-menu-roles-import.php:281
+msgid "Re-Upload your normal WordPress eXtended RSS (WXR) file and we&#8217;ll import the Nav Menu Roles and any other missing post meta for the Nav Menu items."
+msgstr "Återuppladda din normala WordPress eXtended RSS-fil (WXR) och vi kommer att importera Nav Menu-rollerna och all annan saknad postmeta för menyvalen i Nav Menu."
+
+#: inc/class-nav-menu-roles-import.php:282
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "Välj en WXR-fil (.xml) att ladda upp, klicka på Ladda upp och importera."
+
+#. translators: %s: title of menu item which is invalid
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:101
+#: inc/class-walker-nav-menu-edit-roles.php:109
+msgid "%s (Invalid)"
+msgstr "%s (Ogiltig)"
+
+#. translators: %s: title of menu item in draft status
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:105
+#: inc/class-walker-nav-menu-edit-roles.php:113
+msgid "%s (Pending)"
+msgstr "%s (Väntande)"
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:119
+#: inc/class-walker-nav-menu-edit-roles.php:128
+msgid "sub item"
+msgstr "under-val"
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:136
+#: inc/class-walker-nav-menu-edit-roles.php:143
+msgid "Move up"
+msgstr "Flytta upp"
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:151
+#: inc/class-walker-nav-menu-edit-roles.php:156
+msgid "Move down"
+msgstr "Flytta ner"
+
+#: inc/class-walker-nav-menu-edit-roles.php:158
+#: inc/class-walker-nav-menu-edit-roles.php:160
+msgid "Edit Menu Item"
+msgstr "Redigera menyval"
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:166
+#: inc/class-walker-nav-menu-edit-roles.php:169
+msgid "URL"
+msgstr "URL"
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:173
+#: inc/class-walker-nav-menu-edit-roles.php:176
+msgid "Navigation Label"
+msgstr "Menyvalsnamn"
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:179
+#: inc/class-walker-nav-menu-edit-roles.php:182
+msgid "Title Attribute"
+msgstr "Titelattribut"
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:191
+#: inc/class-walker-nav-menu-edit-roles.php:194
+msgid "CSS Classes (optional)"
+msgstr "CSS-klasser (valfritt)"
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:197
+#: inc/class-walker-nav-menu-edit-roles.php:200
+msgid "Link Relationship (XFN)"
+msgstr "Relationslänk (XFN)"
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:203
+#: inc/class-walker-nav-menu-edit-roles.php:206
+msgid "Description"
+msgstr "Beskrivning"
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:205
+#: inc/class-walker-nav-menu-edit-roles.php:208
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "Beskrivningen visas i menyn om nuvarande tema har stöd för det."
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:217
+#: inc/class-walker-nav-menu-edit-roles.php:220
+msgid "Move"
+msgstr "Flytta"
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:218
+#: inc/class-walker-nav-menu-edit-roles.php:221
+msgid "Up one"
+msgstr "Upp en"
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:219
+#: inc/class-walker-nav-menu-edit-roles.php:222
+msgid "Down one"
+msgstr "Ner en"
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:222
+#: inc/class-walker-nav-menu-edit-roles.php:225
+msgid "To the top"
+msgstr "Till toppen"
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:229
+#: inc/class-walker-nav-menu-edit-roles.php:232
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:245
+#: inc/class-walker-nav-menu-edit-roles.php:246
+msgid "Remove"
+msgstr "Ta bort"
+
+#: inc/class-walker-nav-menu-edit-roles-4.5.php:252
+#: inc/class-walker-nav-menu-edit-roles.php:258
+msgid "Cancel"
+msgstr "Avbryt"
+
+#. Plugin Name of the plugin
+#: nav-menu-roles.php:174
+msgid "Nav Menu Roles"
+msgstr "Nav Menu Roles"
+
+#: inc/customizer.php:54 nav-menu-roles.php:368
+msgid "Display Mode"
+msgstr "Synlighet"
+
+#: inc/customizer.php:58 nav-menu-roles.php:374
+msgid "Logged In Users"
+msgstr "Inloggade användare"
+
+#: inc/customizer.php:62 nav-menu-roles.php:379
+msgid "Logged Out Users"
+msgstr "Ej inloggade användare"
+
+#. Plugin URI of the plugin
+msgid "http://www.kathyisawesome.com/449/nav-menu-roles/"
+msgstr "http://www.kathyisawesome.com/449/nav-menu-roles/"
+
+#. Author of the plugin
+msgid "Kathy Darling"
+msgstr "Kathy Darling"
+
+#. Author URI of the plugin
+msgid "http://www.kathyisawesome.com"
+msgstr "http://www.kathyisawesome.com"
+
+#: inc/customizer.php:66 nav-menu-roles.php:384
+msgid "Everyone"
+msgstr "Alla"
+
+#. Description of the plugin
+msgid "Hide custom menu items based on user roles."
+msgstr "Dölj anpassade menyval baserat på användarroller."

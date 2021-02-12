@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39.089" height="35.373" viewBox="0 0 39.089 35.373">
+  <g id="sketch-symbol" transform="translate(-59 -85)">
+    <path id="Path_138" data-name="Path 138" d="M67.529,86.165,78.545,85l11.016,1.165,8.529,11.449L78.545,120.373,59,97.613Z" fill="#fdb300" fill-rule="evenodd"/>
+    <g id="Group_184" data-name="Group 184" transform="translate(59 97.613)">
+      <path id="Path_139" data-name="Path 139" d="M7.917,0,19.545,22.759,0,0Z" transform="translate(0 0)" fill="#ea6c00" fill-rule="evenodd"/>
+      <path id="Path_140" data-name="Path 140" d="M7.917,22.759,19.545,0,0,22.759Z" transform="translate(39.089 22.759) rotate(180)" fill="#ea6c00" fill-rule="evenodd"/>
+      <path id="Path_141" data-name="Path 141" d="M79.634,0H102.89L91.262,22.759Z" transform="translate(-71.717 0)" fill="#fdad00" fill-rule="evenodd"/>
+    </g>
+    <g id="Group_185" data-name="Group 185" transform="translate(59 85)">
+      <path id="Path_142" data-name="Path 142" d="M91.262,0,80.246,1.165l-.612,11.449Z" transform="translate(-71.717)" fill="#fdd231" fill-rule="evenodd"/>
+      <path id="Path_143" data-name="Path 143" d="M11.628,12.613.612,11.449,0,0Z" transform="translate(31.173 12.613) rotate(180)" fill="#fdd231" fill-rule="evenodd"/>
+      <path id="Path_144" data-name="Path 144" d="M0,0,8.529,11.449,7.917,0Z" transform="translate(39.089 12.613) rotate(180)" fill="#fdad00" fill-rule="evenodd"/>
+      <path id="Path_145" data-name="Path 145" d="M0,23.164,8.528,11.715,7.917,23.164Z" transform="translate(0 -10.55)" fill="#fdad00" fill-rule="evenodd"/>
+      <path id="Path_146" data-name="Path 146" d="M91.262,0,79.634,12.613H102.89Z" transform="translate(-71.717)" fill="#feeeb7" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
